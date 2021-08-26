@@ -4,7 +4,7 @@
 using namespace std;
 /**
  * @brief Stack Implementation
- * @author Onur Ertunc 21802760 Section 1
+ * @author Onur Ertunc 
  * @date 15.05.2021
  * 
  */
