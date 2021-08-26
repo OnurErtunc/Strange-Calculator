@@ -3,7 +3,7 @@ using namespace std;
 #include "StackChar.h"
 /**
  * @brief Stack implementation for char
- * @author Onur Ertunc 21802760 Section 1
+ * @author Onur Ertunc 
  * @date 15.05.2021
  * 
  */
