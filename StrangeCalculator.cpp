@@ -6,8 +6,8 @@
 #include <iostream>
 using namespace std;
 /**
- * @brief global functions of hw4
- * @author Onur Ertunc - 21802760 - Section 1
+ * @brief global functions
+ * @author Onur Ertunc
  * @date 15.05.2021
  * 
  */
